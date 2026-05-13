@@ -40,6 +40,8 @@ Steps to follow for a PR:
 ## Styleguides
 
 - **Git Messages:** We use [Conventional Commits](https://www.conventionalcommits.org/).
+  - **Capitalization:** Use lowercase for the subject line (e.g., `feat: add new button`).
+  - **PR Titles:** Apply the same lowercase convention to Pull Request titles to ensure a clean merge history.
 - **Testing:** Always include tests for new features and bug fixes.
 
 ## Community
