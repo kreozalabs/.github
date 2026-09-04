@@ -1,5 +1,8 @@
 # Kreoza
 
+> [!NOTE]
+> In this org, I, [munlicode](https://github.com/munlicode), develop projects that are built as *family projects*.
+
 *Wanna help us make room for new discoveries?*
 
 If yes, that is great. If not, that is also great.
